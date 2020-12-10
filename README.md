@@ -1,2 +1,3 @@
 # jhonny-bot
-baler bot amr....faltu
+
+Bhalo na ;-;
