@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-
+// Test
 bot.on('ready', () =>{
     console.log('Jhonny Bot Is Now Online')
 })
